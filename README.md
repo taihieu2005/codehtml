@@ -1,2 +1,4 @@
-# Quang Hưng - Profile
-https://quanghuwngg.vercel.app
+# Nguyễn Trọng Thảo - Profile
+```
+•Code by Nguyễn Trọng Thảo 
+```
