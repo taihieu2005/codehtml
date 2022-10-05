@@ -1,6 +1,9 @@
-<!DOCTYPE html>
+<?php
 session_start();
 require('firewall/core.php');
+?>
+
+<!DOCTYPE html>
   <html lang="en">
   <head>
 <script>
