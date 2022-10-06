@@ -1,5 +1,10 @@
 <?php
-session_sta
+
+session_start();
+
+require('firewall/core.php');
+
+echo 'ok';
 <!DOCTYPE html>
   <html lang="en">
   <head>
