@@ -8,8 +8,8 @@ T_Firewall::init([
     // Danh Sách Tên Miền Cho Phép POST (để domain của bạn)
     'firewall_domains' => [
         'trongthao.vercel.app',
-        'trongthao-nttdddd.vercel.app',
-        'trongthao-git-main-nttdddd.vercel.app/',
+        
+        
         
     ],
 
